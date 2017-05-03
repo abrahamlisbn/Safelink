@@ -18,17 +18,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="<div dir="ltr" style="text-align: left;" trbidi="on">
-<center>
-<h2 id="daplong" style="color: daplong;">
-Please Wait...</h2>
-<script src="KODE_SCRIPT" type="text/javascript"></script> <script type="text/javascript">
-var currentURL=location.href;
-var str = currentURL;
-var res = str.replace("http://www.downloadfiledna.tk/2017/05/3d-metal-printing.html?url=", "");
-document.write('<button id="download" class="Visit_Link" onclick="changeLink();" style="display: none;text-align:justify;margin-bottom:2px;">Visit Link</button>')
-</script></center>
-</div>?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://www.downloadfiledna.tk/2017/05/3d-metal-printing.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
